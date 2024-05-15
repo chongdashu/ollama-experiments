@@ -1,0 +1,11 @@
+.lightning_studio/.studiorc
+
+.ollama/**
+.vscode/**
+.idea/**
+
+.viminfo
+
+bin/**
+log/**
+
